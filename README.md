@@ -1,4 +1,4 @@
-# Uri online Judge solving No- 1038
+# Uri online Judge solving No- 1040
 #All Uri Online problem solving
 N1, N2, N3, N4 = list(map(float, input().split()))
 
